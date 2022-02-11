@@ -1,9 +1,3 @@
-'''assumption: everything will be in 4th speed
-meaning one 5 beat set corresponds to the footwork of 5 being done 4 times
-and so on
-
-tihai: beats + gap + beats + gap + beats'''
-
 import random
 
 tihai = [] #full set of three with the gaps
